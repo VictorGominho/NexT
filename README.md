@@ -5,5 +5,6 @@ Eu estou cursando o programa Next da Cesar School.
 
 ## Curiosidades
 
-- Eu me formei em Direito, mas nunca exerci uma profissão da área.
-- Eu praticamente aprendi inglês jogando video games.
+- Me formei em Direito, mas nunca exerci uma profissão da área.
+- Praticamente aprendi inglês jogando video games.
+- Eu adoro filmes de animação.
